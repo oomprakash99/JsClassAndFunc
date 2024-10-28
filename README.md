@@ -1,4 +1,4 @@
-JavaScript Class and Function Example
+<h1>JavaScript Class and Function Example</h1>
 
 Description
 
